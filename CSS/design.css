@@ -1,0 +1,31 @@
+li a{
+    text-decoration: none;
+
+}
+nav ul li{
+    display: inline;
+    border: 1px solid black;
+    margin-right: 10px;
+}
+#main{
+    background-color:azure;
+}
+#Presentation{
+    text-align: justify;
+    width: 70%;
+    margin-right: 2%;
+    font-family: 18;
+    
+}
+#alignement{
+    display: flex;
+    border: 1px solid black;
+}
+#profile{
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+#Titre-page{
+    border: 1px solid black;
+    margin-bottom:0% ;
+}
